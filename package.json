@@ -1,0 +1,24 @@
+{
+  "name": "restful-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonkwong11/restful-node-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonkwong11/restful-node-api/issues"
+  },
+  "homepage": "https://github.com/jasonkwong11/restful-node-api#readme",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.0"
+  }
+}
